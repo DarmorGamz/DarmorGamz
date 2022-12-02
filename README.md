@@ -8,7 +8,7 @@
 
 - A passionate Full-Stack Software Engineering.
 - Bachelor in Computer Engineering.
-- Currently enrolled in Bachelor of Technology(Major: Software Engineering, Minor: Buisness).
+- Enrolled in Bachelor of Technology(Major: Software Engineering, Minor: Buisness).
 
 <br><br>
 
