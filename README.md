@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/DarmorGamz/DarmorGamz/raw/main/images/cool_bar.gif">
 
 ## <picture><img src = "https://github.com/DarmorGamz/DarmorGamz/raw/main/images/about_me.gif" width = 50px></picture> **About me**
 
@@ -14,4 +14,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darmorgamz&layout=donut&theme=midnight-purple&ring_color=9B2ADD&title_color=9B2ADD&card_width=320" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/DarmorGamz/DarmorGamz/raw/main/images/cool_bar.gif">
