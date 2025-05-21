@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/DarmorGamz/DarmorGamz/raw/main/images/about_me.gif" width = 50px></picture> **About me**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&multiline=true&width=500&height=80&color=9B2ADD&lines=Computer Engineer | Software Engineer;I'm a fuckin sorcerer!;I build cool shit..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&multiline=true&width=500&height=80&color=9B2ADD&lines=Computer+Engineer+|+Software+Engineer;I'm+a+fuckin+sorcerer!;I+build+cool+shit..." alt="Typing SVG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darmorgamz&label=Profile%20views&color=0e75b6&style=flat&base=142010" alt="darmorgamz" /> </p>
 
